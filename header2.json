@@ -2,6 +2,7 @@
   "name": "FC楽しい難易度表",
   "symbol": "繋",
   "level_order": [
+    "0",
     "1",
     "2",
     "3",
@@ -19,8 +20,8 @@
   "entry_type": "",
   "data_url": "data2.json",
   "compat_prefix": "",
-  "last_update": "2022\/09\/03",
+  "last_update": "2022\/09\/04",
   "editor_name": "BeMusicSeeker",
   "editor_version": "0.3.5.6",
-  "output_date": "2022\/09\/03"
+  "output_date": "2022\/09\/04"
 }
