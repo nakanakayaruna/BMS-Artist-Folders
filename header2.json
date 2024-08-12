@@ -1,6 +1,6 @@
 {
   "name": "ARTIST",
-  "symbol": null,
+  "symbol": "作",
   "level_order": [
     "13eastie",
     "44teru-k",
@@ -94,7 +94,7 @@
   "folder_sort_key": "",
   "folder_sort_ascending": true,
   "entry_type": "",
-  "data_url": "data.json",
+  "data_url": "data2.json",
   "compat_prefix": "",
   "last_update": "2024\/02\/04",
   "editor_name": "BeMusicSeeker",
