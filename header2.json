@@ -1,14 +1,21 @@
 {
   "name": "ARTIST",
-  "symbol": "作",
+  "symbol": "♪",
   "level_order": [
+    "-45",
+    "2TORI",
     "13eastie",
     "44teru-k",
+    "A4paper",
     "ABE3",
     "adamthix",
     "AKITO",
     "amorphinism",
+    "AOiRO_Manbow",
+    "Ark-Z",
     "ATEMAK",
+    "Ayatsugu_Otowa",
+    "BACO",
     "beatMARIO",
     "brz1128",
     "celas",
@@ -40,6 +47,7 @@
     "maklow",
     "MASA",
     "MILK",
+    "misokabocha (BGA)",
     "Mona",
     "Mr.ABC",
     "myu",
@@ -96,8 +104,8 @@
   "entry_type": "",
   "data_url": "data2.json",
   "compat_prefix": "",
-  "last_update": "2024\/02\/04",
+  "last_update": "2025\/01\/26",
   "editor_name": "BeMusicSeeker",
   "editor_version": "",
-  "output_date": "2024\/08\/12"
+  "output_date": "2025\/01\/26"
 }
