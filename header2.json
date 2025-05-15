@@ -70,8 +70,10 @@
     "LeaF (sabun)",
     "Lemon beads",
     "Lime",
+    "linear ring",
     "litmus*",
     "LOKI",
+    "loz",
     "LSD",
     "Lubinn",
     "LUNE",
@@ -119,6 +121,7 @@
     "RedMuffleR",
     "Rezanov",
     "rider",
+    "ROKINA",
     "-RYO-",
     "saikoro",
     "sak",
@@ -167,6 +170,7 @@
     "たこやき",
     "にょろも",
     "ねこみみ魔法使い",
+    "ねこみりん (music, sabun)",
     "はがね",
     "モリモリあつし",
     "やっす～",
@@ -193,8 +197,8 @@
   "entry_type": "",
   "data_url": "data2.json",
   "compat_prefix": "",
-  "last_update": "2025\/04\/19",
+  "last_update": "2025\/05\/15",
   "editor_name": "BeMusicSeeker",
   "editor_version": "",
-  "output_date": "2025\/04\/23"
+  "output_date": "2025\/05\/15"
 }
