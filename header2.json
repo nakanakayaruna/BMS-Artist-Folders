@@ -25,8 +25,9 @@
     "Bit Upper",
     "BOZO",
     "brz1128",
+    "Can.D-mtmrw (BGA)",
     "celas",
-    "circusson (music,BGA)",
+    "circusson (music, BGA)",
     "cittan*",
     "Clotho",
     "cranky",
@@ -61,6 +62,7 @@
     "HaL",
     "hammer",
     "Hate",
+    "HDLV (BGA)",
     "HOUJIROU",
     "ixi's",
     "Junk",
@@ -164,6 +166,7 @@
     "Urban Techno Cafe",
     "urimu",
     "void",
+    "vol-t (BGA)",
     "wa.",
     "wigen",
     "wint",
@@ -204,6 +207,7 @@
     "猫の人 (music, sabun)",
     "鳩",
     "樋奈月みつ",
+    "百舌谷 (BGA)",
     "牧野",
     "夢幻 海",
     "腋亦"
@@ -216,8 +220,8 @@
   "entry_type": "",
   "data_url": "data2.json",
   "compat_prefix": "",
-  "last_update": "2025\/08\/01",
+  "last_update": "2025\/08\/02",
   "editor_name": "BeMusicSeeker",
   "editor_version": "",
-  "output_date": "2025\/08\/01"
+  "output_date": "2025\/08\/02"
 }
