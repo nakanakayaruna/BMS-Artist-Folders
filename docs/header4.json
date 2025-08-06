@@ -1,0 +1,25 @@
+{
+  "name": "ARTIST-BGA",
+  "symbol": "♪",
+  "level_order": [
+    "Can.D-mtmrw",
+    "G",
+    "HDLV",
+    "misokabocha",
+    "Syatten",
+    "vol-t",
+    "広瀬まどか",
+    "出前",
+    "百舌谷"
+  ],
+  "folder_order": [ ],
+  "folder_sort_key": "song.title",
+  "folder_sort_ascending": true,
+  "entry_type": "",
+  "data_url": "data4.json",
+  "compat_prefix": "",
+  "last_update": "2025\/08\/05",
+  "editor_name": "BeMusicSeeker",
+  "editor_version": "",
+  "output_date": "2025\/08\/06"
+}
