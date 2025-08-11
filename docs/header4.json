@@ -2,6 +2,7 @@
   "name": "ARTIST-BGA",
   "symbol": "♪",
   "level_order": [
+    "140\/fth",
     "Can.D-mtmrw",
     "cyclia",
     "deadblue238",
@@ -10,7 +11,9 @@
     "G",
     "HDLV",
     "iimo",
+    "inukoro",
     "kagi55x",
+    "kazari",
     "Kengo Nakao",
     "kkkfff2",
     "Lepusnette",
@@ -32,13 +35,17 @@
     "vol-t",
     "yama_ko",
     "zue-row",
+    "むらたむうた",
+    "わっふゑ",
     "葛飾出身",
     "広瀬まどか",
     "自動車 原付",
     "鴫野エイカー",
     "出前",
     "駿",
-    "百舌谷"
+    "百舌谷",
+    "鑓田",
+    "龍花"
   ],
   "folder_order": [ ],
   "folder_sort_key": "song.title",
@@ -46,8 +53,8 @@
   "entry_type": "",
   "data_url": "data4.json",
   "compat_prefix": "",
-  "last_update": "2025\/08\/10",
+  "last_update": "2025\/08\/11",
   "editor_name": "BeMusicSeeker",
   "editor_version": "",
-  "output_date": "2025\/08\/10"
+  "output_date": "2025\/08\/11"
 }

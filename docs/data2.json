@@ -11617,7 +11617,7 @@
     "adddate": "2025\/08\/08"
   },
   {
-    "md5": "99a14c6db417234eb0fc064c421792c9",
+    "md5": "07b991d935793555f56e43781a5d7789",
     "org_level": 10,
     "title": "Grimheart",
     "artist": "Puru",
@@ -11655,7 +11655,7 @@
     ],
     "org_md5": "6c77ca5053489a4857ed4f6d53ff0bda",
     "comment": "",
-    "adddate": "2025\/08\/08"
+    "adddate": "2025\/08\/10"
   },
   {
     "md5": "53b31ae4944b9d945ea976c0845cf1f8",
@@ -38966,6 +38966,29 @@
     "org_md5": "a8f4c42b8ea890785aacf7b648be23d7",
     "comment": "",
     "adddate": "2025\/08\/08"
+  },
+  {
+    "md5": "0cfe8563a7545cd5923a3ce2ee583caf",
+    "org_level": 8,
+    "title": "しゃんでりあ めりぃ",
+    "artist": "ねこみみ魔王の使い",
+    "folder": "tarolabo",
+    "level": "tarolabo",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "6db444f2320a4b34b83b6c131cdafa2f",
+      "0cfe8563a7545cd5923a3ce2ee583caf",
+      "ba7cdad50474186bb125e5a076420073",
+      "122e814a3f8d8ba4f3140abb01c1040d",
+      "26672b6319d8603c46932afd6c1cdb40",
+      "9219cf592d202136ea3cb9dbbfbea9a6"
+    ],
+    "org_md5": "6db444f2320a4b34b83b6c131cdafa2f",
+    "comment": "",
+    "adddate": "2025\/08\/11"
   },
   {
     "md5": "0924882462c13c4521fce8d7c0a8c43f",
