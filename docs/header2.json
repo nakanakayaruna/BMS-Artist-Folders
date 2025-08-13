@@ -47,6 +47,7 @@
     "Syatten",
     "t+pazolite (music)",
     "t+pazolite (sabun)",
+    "Ta-k (music, sabun)",
     "tarolabo",
     "Team Grimoire",
     "Tetrajectory",
@@ -75,8 +76,8 @@
   "entry_type": "",
   "data_url": "data2.json",
   "compat_prefix": "",
-  "last_update": "2025\/08\/11",
+  "last_update": "2025\/08\/13",
   "editor_name": "BeMusicSeeker",
   "editor_version": "",
-  "output_date": "2025\/08\/11"
+  "output_date": "2025\/08\/13"
 }

@@ -18,6 +18,7 @@
     "Ark-Z",
     "ATEMAK",
     "Ayatsugu_Otowa",
+    "AYhaz",
     "BACO",
     "bbangsami",
     "beatMARIO",
@@ -105,16 +106,14 @@
     "nmk",
     "nora2r"
   ],
-  "folder_order": [
-    ""
-  ],
+  "folder_order": [ ],
   "folder_sort_key": "song.title",
   "folder_sort_ascending": true,
   "entry_type": "",
   "data_url": "data1.json",
   "compat_prefix": "",
-  "last_update": "2025\/08\/08",
+  "last_update": "2025\/08\/13",
   "editor_name": "BeMusicSeeker",
   "editor_version": "",
-  "output_date": "2025\/08\/11"
+  "output_date": "2025\/08\/13"
 }
