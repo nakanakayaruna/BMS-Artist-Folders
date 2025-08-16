@@ -73,7 +73,6 @@
     "kurenaissance",
     "lactate",
     "LeaF (music)",
-    "LeaF (sabun)",
     "Lemon beads",
     "Lime",
     "linear ring",
@@ -98,6 +97,7 @@
     "mommy",
     "Mona",
     "Mr.ABC",
+    "murotani (music, sabun)",
     "myu",
     "Nankumo",
     "naotyu-",
@@ -106,14 +106,16 @@
     "nmk",
     "nora2r"
   ],
-  "folder_order": [ ],
+  "folder_order": [
+    ""
+  ],
   "folder_sort_key": "song.title",
   "folder_sort_ascending": true,
   "entry_type": "",
   "data_url": "data1.json",
   "compat_prefix": "",
-  "last_update": "2025\/08\/13",
+  "last_update": "2025\/08\/16",
   "editor_name": "BeMusicSeeker",
   "editor_version": "",
-  "output_date": "2025\/08\/13"
+  "output_date": "2025\/08\/16"
 }

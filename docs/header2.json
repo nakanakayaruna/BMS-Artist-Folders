@@ -24,6 +24,7 @@
     "Ras",
     "recognize m.",
     "RedMuffleR",
+    "retu",
     "Rezanov",
     "rider",
     "ROKINA",
@@ -53,6 +54,7 @@
     "Tetrajectory",
     "tetsuo",
     "TiS",
+    "tolz",
     "uchu-jin",
     "ueotan",
     "Urban Techno Cafe",
@@ -68,7 +70,8 @@
     "yanagi",
     "Ym1024",
     "Yu^ta",
-    "yukitani"
+    "yukitani",
+    "yusi."
   ],
   "folder_order": [ ],
   "folder_sort_key": "song.title",
@@ -76,8 +79,8 @@
   "entry_type": "",
   "data_url": "data2.json",
   "compat_prefix": "",
-  "last_update": "2025\/08\/13",
+  "last_update": "2025\/08\/16",
   "editor_name": "BeMusicSeeker",
   "editor_version": "",
-  "output_date": "2025\/08\/13"
+  "output_date": "2025\/08\/16"
 }
