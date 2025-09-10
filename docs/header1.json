@@ -26,7 +26,6 @@
     "BOZO",
     "brz1128",
     "celas",
-    "circusson",
     "cittan*",
     "Clotho",
     "cranky",
@@ -67,6 +66,7 @@
     "KA-KU",
     "kanone",
     "kari",
+    "kas_0120",
     "ken",
     "keyc",
     "kiku_b",
@@ -116,8 +116,8 @@
   "entry_type": "",
   "data_url": "data1.json",
   "compat_prefix": "",
-  "last_update": "2025\/08\/23",
+  "last_update": "2025\/09\/10",
   "editor_name": "BeMusicSeeker",
   "editor_version": "",
-  "output_date": "2025\/08\/27"
+  "output_date": "2025\/09\/10"
 }

@@ -1875,10 +1875,10 @@
     "adddate": "2025\/08\/01"
   },
   {
-    "md5": "6a8dc28ae49e48f48c0f6a6f2afc0815",
+    "md5": "1f73e9c19fd5415cae06185bb334e5ca",
     "org_level": 8,
     "title": "Cynic",
-    "artist": "6yen",
+    "artist": "6yen \/ G",
     "folder": "6yen",
     "level": "6yen",
     "lr2_bmsid": null,
@@ -1948,7 +1948,7 @@
     ],
     "org_md5": "6a8dc28ae49e48f48c0f6a6f2afc0815",
     "comment": "",
-    "adddate": "2025\/08\/01"
+    "adddate": "2025\/09\/10"
   },
   {
     "md5": "4eb04299ce949274e71c8e6d410d7a89",
@@ -7540,7 +7540,7 @@
     "adddate": "2025\/01\/26"
   },
   {
-    "md5": "dc28d06f584233f2ed6bd7353e4cc77b",
+    "md5": "f325adbfec76efae04f5e3255c7a2a47",
     "org_level": 18,
     "title": "ROTTELER'S HOME \"seven bottakuri edit\"",
     "artist": "clap stick",
@@ -7552,31 +7552,39 @@
     "name_diff": null,
     "org_md5s": [
       "740f25e00d4625949981fad9ce3ec58b",
+      "548d3d59965ea33899bd6b36036d75e5",
       "867d6141ffc5d7ba337dcd47074aeca5",
+      "3b5ee5cb6184223315642db4cad40602",
       "66e328e4a54ca20908d4328fbc25b7d3",
       "aaff2ce568b8968c3d9780622eb79eea",
       "4d02e7a360fe59ca9d790434acdcf2f2",
+      "e6f1c1a335b578d0d0597613ba723d4b",
       "46057e229d17dde875e8b447349bbf61",
+      "42a46729ccb470cf04621eaea49e6243",
       "18fda1c454ecdc719aa63b80e71f6c36",
       "8cc5475597db5b9aed514c9def1b460d",
+      "bd3c9070f826c16222612f7d5f7d4bde",
       "a63caf994ac68e006aea9f9af6139d97",
+      "bb49a18ba479381f704c4f7952fde592",
       "99089fe201ea9281c243b5e008b84f26",
+      "375e885d0be6bf8703ee887ad226a104",
       "dc28d06f584233f2ed6bd7353e4cc77b",
       "f325adbfec76efae04f5e3255c7a2a47",
       "592562a1bd4f8751e5d28e8062849ae3",
       "b7e000dc18ae218177fcc8385d94b33a",
       "f88a39394d916a3a9b709ae29fef9dc1",
+      "f2fb32551588bc7e234dd6e9429308b7",
       "c36657872b6d5245b3812796da0340b8",
+      "3b1720173791f15ecf42647887e8ec98",
       "1c52d6c04fe9ff54850f8f18aa82d5aa",
       "337359b8aa263032771e9a99612311ca",
+      "36e0732f8123de6ad494d0dad6df6e76",
       "dc2a90b4c397b1321dabd03ae8b3ad07",
-      "b549744622f58ae7b4b630f050220190",
-      "42a46729ccb470cf04621eaea49e6243",
-      "e6f1c1a335b578d0d0597613ba723d4b"
+      "b549744622f58ae7b4b630f050220190"
     ],
     "org_md5": "740f25e00d4625949981fad9ce3ec58b",
     "comment": "",
-    "adddate": "2025\/01\/26"
+    "adddate": "2025\/09\/07"
   },
   {
     "md5": "fd1d436576d62f86f8a35f8e27f76444",
@@ -19753,30 +19761,6 @@
     "adddate": "2023\/12\/15"
   },
   {
-    "md5": "1f06ba6605bc7a3d32c85b44769f24a1",
-    "org_level": 12,
-    "title": "NULL Foundation",
-    "artist": "circusson",
-    "folder": "circusson",
-    "level": "circusson",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [
-      "30775abaf8337a7129649d8fc5d159df",
-      "1f06ba6605bc7a3d32c85b44769f24a1",
-      "42c3e68a5e38400ec777b7858194265b",
-      "ab91cb854580e456de1bdf1e62429478",
-      "1a8f419451721ae7b56499ed119a3554",
-      "6886590a50cfeb555f0e0f180cfc29ed",
-      "cd7b9d9626cc63c20e008ef0711fef56"
-    ],
-    "org_md5": "30775abaf8337a7129649d8fc5d159df",
-    "comment": "",
-    "adddate": "2025\/01\/27"
-  },
-  {
     "md5": "ff6b9ced59d4eb3cfa511cd2ed6a0972",
     "org_level": 11,
     "title": "Guiding Star (SP ANOTHER)",
@@ -25709,7 +25693,7 @@
     "adddate": "2025\/08\/23"
   },
   {
-    "md5": "4956f7e08a7d891432e0db2706480e69",
+    "md5": "0465bf221c3b5adf7c65e7403a58c6a8",
     "org_level": 12,
     "title": "蝎虎天体 -Lacertid- [SP ANOTHER]",
     "artist": "Nick Furry vs 悪いケモノ-A BGA by the GalaxyF \/ Illust by ケモノ内閣総理大臣 \/ obj Astolfur",
@@ -25734,7 +25718,7 @@
     ],
     "org_md5": "874903a9e46e1c976370829e5500a3ec",
     "comment": "",
-    "adddate": "2025\/08\/23"
+    "adddate": "2025\/09\/02"
   },
   {
     "md5": "8f6f1450cce031c5ee3d40ab91ffbfab",
@@ -37355,8 +37339,8 @@
     "adddate": "2025\/01\/29"
   },
   {
-    "md5": "6db552f383b9317f3714758679a5b78f",
-    "org_level": 8,
+    "md5": "604c3b43983d60633215cccbbd3cc494",
+    "org_level": 5,
     "title": "consider nothing",
     "artist": "fether",
     "folder": "fether",
@@ -37367,6 +37351,7 @@
     "name_diff": null,
     "org_md5s": [
       "399d6192d567a51ffe72aa473071c3e9",
+      "f209de9c104e7f6ca4592b28875df757",
       "46778c2cf12dbf28d83fc54880f3ff63",
       "604c3b43983d60633215cccbbd3cc494",
       "6db552f383b9317f3714758679a5b78f",
@@ -37381,12 +37366,11 @@
       "8e1b17d83d424f03461c79106c62b119",
       "315924f54dc532c1f161aecc26960573",
       "a3cacb47ad0452fc617a3d8f34eaa587",
-      "2781d932a4547267ea7336af7e542337",
-      "f209de9c104e7f6ca4592b28875df757"
+      "2781d932a4547267ea7336af7e542337"
     ],
     "org_md5": "399d6192d567a51ffe72aa473071c3e9",
     "comment": "",
-    "adddate": "2025\/01\/29"
+    "adddate": "2025\/09\/10"
   },
   {
     "md5": "050449ae6ec997c9d3828519d385420f",
@@ -40426,7 +40410,7 @@
     "adddate": "2025\/01\/29"
   },
   {
-    "md5": "3c931bd376206416828aba92541a1339",
+    "md5": "69134c071c7c28f6121f881164e99967",
     "org_level": 12,
     "title": "L.D.",
     "artist": "Andy Lee arranged by Saka-ROW組",
@@ -40445,6 +40429,8 @@
       "5cc2d3856dd9bd22d47f09f1ee567d9e",
       "69134c071c7c28f6121f881164e99967",
       "1371b1a2c42aeaf04684fd8610599f5f",
+      "e5a9c8dbe2035fc3b6ee6228d507ac68",
+      "54941aaf4247515eadf599b3a9d73c5e",
       "7abd50ee77b1e823d429fc2a8d9b9593",
       "dd6a670c77100e514c8d159182cfe587",
       "27d36fa365d7eb81b3065fab66456732",
@@ -40493,12 +40479,11 @@
       "68de0e3a12b27fba52a84cb13b9bf19e",
       "565ae018f53c1cd82c9f53285fdf3247",
       "930733030fdc8bac0144d1d08a43b0de",
-      "5ea71d0c477e6de5da7de91fb50ee513",
-      "54941aaf4247515eadf599b3a9d73c5e"
+      "5ea71d0c477e6de5da7de91fb50ee513"
     ],
     "org_md5": "934711537d2500bee16fc129adfc8774",
     "comment": "",
-    "adddate": "2025\/01\/29"
+    "adddate": "2025\/09\/07"
   },
   {
     "md5": "5ead836ff44a2b8c5112d200b4ccdf48",
@@ -44719,7 +44704,7 @@
     "adddate": "2025\/01\/29"
   },
   {
-    "md5": "01f501e8feb4d50df334acb3561e9414",
+    "md5": "d14b015d05720e8482d0643db8af8330",
     "org_level": 7,
     "title": "ゴフェルの木棺",
     "artist": "Sentire",
@@ -44730,6 +44715,7 @@
     "url_diff": "",
     "name_diff": null,
     "org_md5s": [
+      "8a9f16ef644b195f5269d23e5c8a8757",
       "b13fd7a02e9cf668e7014b1ab90effe5",
       "a5ef571daff86d57abe7ec88bd25d158",
       "77ec26c0e34477f443b592a5a49c5de9",
@@ -44749,16 +44735,18 @@
       "439e1e8c1f02ccce96e0e5f0bbabdbbd",
       "a26e34584002d123be2df07b6dfa0875",
       "349fc1a94b022e8bd824438262d251cc",
+      "d9e6243dfb3e9e43e6ed138135ee27c7",
       "c332e5a6c1e22d9244a7663c8f2194d9",
+      "4b4739e973425a1c5675c3f1aaa5bbc0",
       "2cf9510bf14aca3c60e4f6194dfcb068"
     ],
-    "org_md5": "b13fd7a02e9cf668e7014b1ab90effe5",
+    "org_md5": "8a9f16ef644b195f5269d23e5c8a8757",
     "comment": "",
-    "adddate": "2025\/01\/29"
+    "adddate": "2025\/09\/10"
   },
   {
-    "md5": "e8722f624237dd6a7260d33e19073950",
-    "org_level": 10,
+    "md5": "60af5c4b781e2fe6e8a4b135a8491ba5",
+    "org_level": 6,
     "title": "夏草の線路　-J-Trance remix-",
     "artist": "remix:HaL Vocal:美里",
     "folder": "HaL",
@@ -44782,6 +44770,7 @@
       "377c56892a8033a6912e57a0175686f6",
       "a64201b27856f64ec6ce71313a1871d0",
       "3d79f63444d80d0c52f33cf99f7def54",
+      "b5ed36ddff4af683ba0f745d9868ee26",
       "362bf87e795ee4d9161de40a0a3eb956",
       "668bcdca6efe1ad5b5e5a736bd68bc75",
       "b5e34fc5897805aefa8178c80228329f",
@@ -44790,7 +44779,7 @@
     ],
     "org_md5": "2ce29f67d871b34d77c9a53721d93581",
     "comment": "",
-    "adddate": "2025\/01\/29"
+    "adddate": "2025\/09\/10"
   },
   {
     "md5": "26628d20cf2a5f80adef830a8a05558a",
@@ -48568,10 +48557,10 @@
     "adddate": "2023\/10\/15"
   },
   {
-    "md5": "a5fca78649f1f8c242c3afa5266cc2cd",
+    "md5": "02b97c1de65a85b420943c8328904df8",
     "org_level": 9,
-    "title": "Qualia[Another \/ BGA Edit]",
-    "artist": "Junk \/ RAY",
+    "title": "Qualia[Another]",
+    "artist": "Junk",
     "folder": "Junk",
     "level": "Junk",
     "lr2_bmsid": null,
@@ -48611,6 +48600,7 @@
       "d4033cf0a34e1bff5e3bc9867674a2e4",
       "4d7cb82315726e7ffafca5412e90597d",
       "ad9a30c8079998540a53dbca674dd52e",
+      "dea0c18e73456dcb6a317ac16dea5630",
       "85d83fb47b39a341407938769bbb6d5b",
       "5c404a66501a5e8c7102e1f347871ad6",
       "354210d1ed91dab7689319ec28caa438",
@@ -48634,7 +48624,9 @@
       "8e6fe304fa48f03cd021a0b5a062f865",
       "c142a16cdc41800330f5c5efc30d1c7f",
       "71e36fc36fe8c6217df533d4047664a9",
+      "92c20ea3969777f1a1a328663eb4471b",
       "c041ebf5b83c334ba876fe5ff5d54e03",
+      "87f03cba5395bde5e3af39f097a9eab0",
       "5eac1d05c0abb2321af613bb0a006bcf",
       "c503b6685a983c6aec3455e7252119a2",
       "4316a9fbf4372b837bbb2ce074a0b6fa",
@@ -48654,7 +48646,7 @@
     ],
     "org_md5": "1f3ddda85f8809a09221a8cc0524d141",
     "comment": "",
-    "adddate": "2023\/10\/15"
+    "adddate": "2025\/08\/31"
   },
   {
     "md5": "adfa536284238aa08c3ff4bb9e5b8c9c",
@@ -50439,6 +50431,392 @@
     "org_md5": "ea965e9968027de41d6339609b7e9e45",
     "comment": "",
     "adddate": "2025\/08\/23"
+  },
+  {
+    "md5": "ddd488978145d88cc7789371225c10fd",
+    "org_level": 12,
+    "title": "ALife Contradiction",
+    "artist": "kas_0120",
+    "folder": "kas_0120",
+    "level": "kas_0120",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "ddd488978145d88cc7789371225c10fd",
+      "353fc9ad41c9784bb43cf84be6f56c7a",
+      "db961361e1c1149fd3788784ecbaeb78",
+      "78d014efc2e4ce8bf2c29808516fad08",
+      "a1b3e4f783514503cd7853a18282435d",
+      "f16aeb4fdfdda3638b53b0aa235410ab",
+      "1cf2e4e0cd40442ecbb7d633617c4714",
+      "32f153ee837bc63cc98a8e746ee6e34c",
+      "ee25068bc466097bc6b6ae855bdd0ec1",
+      "a8dc14a15025035528e26c983c8b13c9"
+    ],
+    "org_md5": "ddd488978145d88cc7789371225c10fd",
+    "comment": "",
+    "adddate": "2025\/09\/08"
+  },
+  {
+    "md5": "ce232669e59eac5b553092b2298f7f0e",
+    "org_level": 11,
+    "title": "Chainsaw NINJA vs ALIEN [ANOTHER]",
+    "artist": "kas_0120 vs hard",
+    "folder": "kas_0120",
+    "level": "kas_0120",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "58272df624a2618c920bfd6e09ed4e37",
+      "478453a8dbda0a403c658f639dd43642",
+      "e8908abe3ba5104d8f322bb83e8381a8",
+      "213ce0b43c2b287e5f7d5bb30c8ec44f",
+      "ce232669e59eac5b553092b2298f7f0e",
+      "11ea67e98533164eb90d444c551a620f",
+      "646f215fff679f87f2656bbeb0b41871",
+      "4914e3ce08e526e368749f6a0a8ea3ad",
+      "eac0898f88ec4e0178a978e63af9754e",
+      "1013a4893a44a10358ec3b6bc4000491"
+    ],
+    "org_md5": "58272df624a2618c920bfd6e09ed4e37",
+    "comment": "",
+    "adddate": "2025\/09\/08"
+  },
+  {
+    "md5": "1427566437707a9e3b0eff1cc130888a",
+    "org_level": 12,
+    "title": "Crazy is not Crazy",
+    "artist": "kas_0120",
+    "folder": "kas_0120",
+    "level": "kas_0120",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "e940e3401ddd2f5ee6d1b86279c01014",
+      "1427566437707a9e3b0eff1cc130888a",
+      "b79a0b99778888da5cf8de7bec561eb8",
+      "05249f05a0684f4ccd2e5f10616f8347",
+      "5f73ed5b1132bd74443e8a03b18bf673"
+    ],
+    "org_md5": "e940e3401ddd2f5ee6d1b86279c01014",
+    "comment": "",
+    "adddate": "2025\/09\/08"
+  },
+  {
+    "md5": "5b1985951141fc8dadbb633ff60c4d7e",
+    "org_level": 11,
+    "title": "Crunk Rider [ANOTHER]",
+    "artist": "kas_0120 vs 原木シィタケ BGI: かんてん",
+    "folder": "kas_0120",
+    "level": "kas_0120",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "5b1985951141fc8dadbb633ff60c4d7e",
+      "bc18100b07ca8c6e030167592445ea72",
+      "13dab396cb8ad391b855af4031c4cc67",
+      "e7e070b9939d1937911a31735bf57f25",
+      "78af6b39c8ddb569c79111234584b29f",
+      "a79b0e21fe31cd09de10a7645f4ee147",
+      "0c3c92c49d2056de2a9a84c305ece58a"
+    ],
+    "org_md5": "5b1985951141fc8dadbb633ff60c4d7e",
+    "comment": "",
+    "adddate": "2025\/09\/08"
+  },
+  {
+    "md5": "a4d421835db7c343b24b35841e7db26f",
+    "org_level": 12,
+    "title": "Dog-Run Panic!",
+    "artist": "kas_0120",
+    "folder": "kas_0120",
+    "level": "kas_0120",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "a4d421835db7c343b24b35841e7db26f",
+      "76f7c6609a8a736402c497ad0b3ce998",
+      "74668ab1a8633c36e7ecb683f3b42141",
+      "c9fb0dcf6f03d53701766a424ea3bf03",
+      "35506a715969231f7d4cea8274346e77",
+      "94757b35a1ece6a5365696e9a6d43bca"
+    ],
+    "org_md5": "a4d421835db7c343b24b35841e7db26f",
+    "comment": "",
+    "adddate": "2025\/09\/08"
+  },
+  {
+    "md5": "4952babb4d7cf59fcb6845d73264aea6",
+    "org_level": 12,
+    "title": "DOTA-BATA Cooking Show!",
+    "artist": "kas_0120 BGA: かんてん",
+    "folder": "kas_0120",
+    "level": "kas_0120",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "4952babb4d7cf59fcb6845d73264aea6",
+      "3b625d931b33d15aea84437c4cc57837",
+      "ce8476d3196b346fbe41e161bbcd5cd1",
+      "339fba58e43a81e9b317885d8a82315e",
+      "128d2ad51f9e2b38f38b6219d5bbcc6b"
+    ],
+    "org_md5": "4952babb4d7cf59fcb6845d73264aea6",
+    "comment": "",
+    "adddate": "2025\/09\/08"
+  },
+  {
+    "md5": "c8c6c0463ef62e1bd64316cd5507a33d",
+    "org_level": 12,
+    "title": "freely sky",
+    "artist": "kas_0120",
+    "folder": "kas_0120",
+    "level": "kas_0120",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "c8c6c0463ef62e1bd64316cd5507a33d",
+      "0b297f31dc1dcf2fcbeb6727abb1d63e",
+      "01c0fa2409882f7c9e0a4937f4f2bc3f",
+      "de39fb1491f7256be77715460afb815c"
+    ],
+    "org_md5": "c8c6c0463ef62e1bd64316cd5507a33d",
+    "comment": "",
+    "adddate": "2025\/09\/08"
+  },
+  {
+    "md5": "458c58af651ccbe56e09a17add976ed4",
+    "org_level": 11,
+    "title": "Ginkgo [ANOTHER]",
+    "artist": "kas_0120",
+    "folder": "kas_0120",
+    "level": "kas_0120",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "458c58af651ccbe56e09a17add976ed4",
+      "cff65ad93c32a24a76eb28999a06e74b",
+      "0f00181f1e31fc1a5bfdd6b975ff512e"
+    ],
+    "org_md5": "458c58af651ccbe56e09a17add976ed4",
+    "comment": "",
+    "adddate": "2025\/09\/08"
+  },
+  {
+    "md5": "e055db0400a29dc07c0ac9d2072051b7",
+    "org_level": 12,
+    "title": "ice-flame-thrower",
+    "artist": "mechanic.",
+    "folder": "kas_0120",
+    "level": "kas_0120",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "e055db0400a29dc07c0ac9d2072051b7",
+      "07145c34f24f04cdcdfa7b1389707b01",
+      "0624366b752b4f445659afb168d3dfe6",
+      "f2ede53844abea2c6279fc6a476e20af"
+    ],
+    "org_md5": "e055db0400a29dc07c0ac9d2072051b7",
+    "comment": "",
+    "adddate": "2025\/09\/08"
+  },
+  {
+    "md5": "06dcc0f81194f47f92da7dbcd87d3895",
+    "org_level": 11,
+    "title": "Icon.",
+    "artist": "kas_0120",
+    "folder": "kas_0120",
+    "level": "kas_0120",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "06dcc0f81194f47f92da7dbcd87d3895",
+      "4cf1fa2c3e1a2ef7e607227a5a483b61",
+      "9e8ac74230e82e88642de5d2243fdd1f",
+      "4370a8501e027a5e2ca1f6ab92e13916"
+    ],
+    "org_md5": "06dcc0f81194f47f92da7dbcd87d3895",
+    "comment": "",
+    "adddate": "2025\/09\/08"
+  },
+  {
+    "md5": "e6163de8eca83a1306a4804d1116719f",
+    "org_level": 11,
+    "title": "Keystroke cat -bms edit-",
+    "artist": "kas_0120",
+    "folder": "kas_0120",
+    "level": "kas_0120",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "e6163de8eca83a1306a4804d1116719f",
+      "e278a1a1a44186a37f44ecbdcca6c350",
+      "f7c6851e715035f669dc94d38313fb67",
+      "430322c421a47a107cf98dbe4bb3b80b",
+      "936a314a53083cfd71eefcf266a9c6c5",
+      "82fb8c418818c8595ef266d317ce3d3c"
+    ],
+    "org_md5": "e6163de8eca83a1306a4804d1116719f",
+    "comment": "",
+    "adddate": "2025\/09\/08"
+  },
+  {
+    "md5": "d5a51b6cb45beeb7282310ff61a435cb",
+    "org_level": 12,
+    "title": "One Muffin. Please. [ANOTHER]",
+    "artist": "kas_0120",
+    "folder": "kas_0120",
+    "level": "kas_0120",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "d5a51b6cb45beeb7282310ff61a435cb",
+      "b7d51a1ca6b051a365ae23a797ecc9e1",
+      "827f0168586a3d24076fd785ddb6021c",
+      "ec626d762569dfc9d2d5bf35acca5f6a",
+      "e4e8988ab4b953f3b0d5f27afc77e144",
+      "c9572143693ea76734a5fea364cfed90"
+    ],
+    "org_md5": "d5a51b6cb45beeb7282310ff61a435cb",
+    "comment": "",
+    "adddate": "2025\/09\/08"
+  },
+  {
+    "md5": "ef325e3752de45438179ae9865afd201",
+    "org_level": 11,
+    "title": "Orbital Drive",
+    "artist": "kas_0120 BGA: かんてん",
+    "folder": "kas_0120",
+    "level": "kas_0120",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "ef325e3752de45438179ae9865afd201",
+      "a338a848f28b8b7b462833c1aad81130",
+      "01da8c1e7e41b5fbe9799acf9d403176",
+      "e0357052a6e3597b3e7a178c3391e25b",
+      "4f60d60fb3195fbc0e198bdc08e64aac",
+      "ce36f7094758824ebdee3b17fc0bc1e5"
+    ],
+    "org_md5": "ef325e3752de45438179ae9865afd201",
+    "comment": "",
+    "adddate": "2025\/09\/08"
+  },
+  {
+    "md5": "6beb4cd4f1ebee362f03b5e184b2ba60",
+    "org_level": 12,
+    "title": "RAKUGAKI NOTE",
+    "artist": "kas_0120",
+    "folder": "kas_0120",
+    "level": "kas_0120",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "6beb4cd4f1ebee362f03b5e184b2ba60",
+      "75e587fb0c2c69b7751c426bd7846101",
+      "9680eaf3beed0ee172bcf772843c381e",
+      "e192570988f8db2d9d67b5e42d7331cd",
+      "3a6f0e6599ae4957f95762e10a49623e"
+    ],
+    "org_md5": "6beb4cd4f1ebee362f03b5e184b2ba60",
+    "comment": "",
+    "adddate": "2025\/09\/08"
+  },
+  {
+    "md5": "a8ea6692de9f7046fb05b022c8d5447f",
+    "org_level": 11,
+    "title": "SAKIGAKE",
+    "artist": "kas_0120 × 原木シィタケ BGA:かんてん",
+    "folder": "kas_0120",
+    "level": "kas_0120",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "a8ea6692de9f7046fb05b022c8d5447f",
+      "17ec728aae22e093b33554a3c0b0c1c3",
+      "0c2756cac74e3880856f27b295b9e951",
+      "148adf229d11174a72dcee3756f5e2d9",
+      "674eb141d9d08706cb632c1521580dd0",
+      "3082233c4ede45cd0e06afb2b72626c4",
+      "b27dd4db8a59ef26002f1844f861a7b3"
+    ],
+    "org_md5": "a8ea6692de9f7046fb05b022c8d5447f",
+    "comment": "",
+    "adddate": "2025\/09\/08"
+  },
+  {
+    "md5": "9a48f5c97937ec92f55caa4de2a7a0ea",
+    "org_level": 12,
+    "title": "slavonic gabba from Slavonic March, op.31",
+    "artist": "kas_0120 Pyotr Ilyich Tchaikovsky",
+    "folder": "kas_0120",
+    "level": "kas_0120",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "9a48f5c97937ec92f55caa4de2a7a0ea",
+      "fc08a9740930a7c7883b65da1f3ec8d0",
+      "3d652673df3b5589df08ec4bf2f2729d",
+      "dddd403495b7ce01c259487b21b5518b",
+      "d4ee1143685be51005379eb6cc1a778e"
+    ],
+    "org_md5": "9a48f5c97937ec92f55caa4de2a7a0ea",
+    "comment": "",
+    "adddate": "2025\/09\/08"
+  },
+  {
+    "md5": "2a864eb1c4e51e46945019ee288a4590",
+    "org_level": 12,
+    "title": "時空遊泳",
+    "artist": "kas_0120",
+    "folder": "kas_0120",
+    "level": "kas_0120",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "2a864eb1c4e51e46945019ee288a4590",
+      "a1039d474cddf61c3d352f7ccabf1936",
+      "304818c60c5cfb93cbd9b0ef48e9a1c3",
+      "ac53b418577f9f1798f872b3c9608238"
+    ],
+    "org_md5": "2a864eb1c4e51e46945019ee288a4590",
+    "comment": "",
+    "adddate": "2025\/09\/08"
   },
   {
     "md5": "1615323d736a1ddb9ddd90db32797a8f",
@@ -56691,10 +57069,10 @@
     "adddate": "2025\/02\/01"
   },
   {
-    "md5": "0fe696ac60e831fc111285d6099eadbb",
+    "md5": "7db33377bd09b652befb5c28ac5ae264",
     "org_level": 12,
-    "title": "Andromeda [SP Another]",
-    "artist": "hurirai BGA:hrchem",
+    "title": "Andromeda[7key_Another]",
+    "artist": "Lime",
     "folder": "Lime",
     "level": "Lime",
     "lr2_bmsid": null,
@@ -56702,26 +57080,19 @@
     "url_diff": "",
     "name_diff": null,
     "org_md5s": [
-      "f4a594727d04fa0e77b4148526be33e4",
-      "f60266d18f1b6bfd89196eb9dddf4f02",
-      "e0e22f4870266b9243766c741b5e88a8",
-      "9d4c66ff93cd24bd1dcc813e7b90a6b5",
-      "4a0cdfb39d32ff4437c2b2a9387d6753",
-      "d939b73f2e7ebadaf462776f3ee7976a",
-      "1b805cc399bc02ece9d2b09ff3928fc5",
-      "d085ad2a0303878aefbbd571d02e2790",
-      "96084ab00c312f1e9ab0124b88f56f56",
-      "0fe696ac60e831fc111285d6099eadbb",
-      "3b7a49be66feb5a56902c5115bfc2ced",
-      "68396a0e0b2b1a77bd13d4d24c5c1ff1",
-      "9a0c4bfb151999df0c75cb7d6e881c36",
-      "0a4ae5ef162b58ea31e52c3dfe6efb6e",
-      "c6873d6bb3ff1510ec344e4ce7f629ec",
-      "8b3c66f945d041b5df53ba3e292e5c54"
+      "d4630cebc6979bba199a92055c0c747d",
+      "bd5029f8ccd66b36ddc4cb04946fc1db",
+      "a8db14d1f71a4a49db12bd2f7a8eda32",
+      "7db33377bd09b652befb5c28ac5ae264",
+      "7c16749ade28e395b2a1afa4b518033e",
+      "b890970e16cbdf3dab9d016361a3f6c0",
+      "7bc819dd870020b5e33be53334ce4e3c",
+      "6563ce977f6c841b4c4e72e66ce32fe7",
+      "6e3abdca02a87ed0aa6bc9127e5ac914"
     ],
-    "org_md5": "f4a594727d04fa0e77b4148526be33e4",
+    "org_md5": "d4630cebc6979bba199a92055c0c747d",
     "comment": "",
-    "adddate": "2025\/02\/01"
+    "adddate": "2025\/09\/06"
   },
   {
     "md5": "b50b25ba2eab18ef2b40c8630385a1dd",

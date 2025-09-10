@@ -47,6 +47,7 @@
     "Sta",
     "sun3",
     "Syatten",
+    "T2",
     "t+pazolite (music)",
     "t+pazolite (sabun)",
     "Ta-k (music, sabun)",
@@ -55,7 +56,6 @@
     "Tetrajectory",
     "tetsuo",
     "TiS",
-    "tolz",
     "uchu-jin",
     "ueotan",
     "Urban Techno Cafe",
@@ -70,6 +70,7 @@
     "Yamajet",
     "yanagi",
     "Ym1024",
+    "Yosk!",
     "Yu^ta",
     "yukitani",
     "yusi."
@@ -80,8 +81,8 @@
   "entry_type": "",
   "data_url": "data2.json",
   "compat_prefix": "",
-  "last_update": "2025\/08\/23",
+  "last_update": "2025\/09\/10",
   "editor_name": "BeMusicSeeker",
   "editor_version": "",
-  "output_date": "2025\/08\/27"
+  "output_date": "2025\/09\/10"
 }

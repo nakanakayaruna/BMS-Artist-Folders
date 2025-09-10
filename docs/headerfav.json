@@ -1,0 +1,19 @@
+{
+  "name": "FAVORITE",
+  "symbol": "W",
+  "level_order": [
+    ""
+  ],
+  "folder_order": [
+    ""
+  ],
+  "folder_sort_key": "",
+  "folder_sort_ascending": true,
+  "entry_type": "",
+  "data_url": "datafav.json",
+  "compat_prefix": "",
+  "last_update": "2025\/09\/10",
+  "editor_name": "BeMusicSeeker",
+  "editor_version": "",
+  "output_date": "2025\/09\/10"
+}
