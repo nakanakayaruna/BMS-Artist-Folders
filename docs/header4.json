@@ -43,6 +43,7 @@
     "RED",
     "retu",
     "Roaring Flame",
+    "Ryo Ohnuki",
     "Shuto",
     "Sta",
     "Ta-k",
@@ -58,12 +59,14 @@
     "yusi.",
     "zue-row",
     "からめる",
+    "クロ",
     "むらしん",
     "むらたむうた",
     "もがみ",
     "レク",
     "わっふゑ",
     "葛飾出身",
+    "空読無 白眼",
     "広瀬まどか",
     "自動車 原付",
     "鴫野エイカー",
@@ -73,8 +76,7 @@
     "猫太郎",
     "百舌谷",
     "鑓田",
-    "龍花",
-    ""
+    "龍花"
   ],
   "folder_order": [ ],
   "folder_sort_key": "song.title",
@@ -82,8 +84,8 @@
   "entry_type": "",
   "data_url": "data4.json",
   "compat_prefix": "",
-  "last_update": "2025\/11\/05",
+  "last_update": "2025\/11\/29",
   "editor_name": "BeMusicSeeker",
   "editor_version": "",
-  "output_date": "2025\/11\/06"
+  "output_date": "2026\/01\/05"
 }
