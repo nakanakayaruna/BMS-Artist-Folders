@@ -24,6 +24,7 @@
     "Puru",
     "q\/stol",
     "qfeileadh",
+    "Qga",
     "QURELESS",
     "Ras",
     "recognize m.",
@@ -79,8 +80,10 @@
     "wigen",
     "wint",
     "wirel",
+    "Xacla (music, sabun)",
     "XeON",
     "xi",
+    "xra",
     "Yamajet",
     "yanagi",
     "Ym1024",
@@ -95,8 +98,8 @@
   "entry_type": "",
   "data_url": "data2.json",
   "compat_prefix": "",
-  "last_update": "2026\/01\/19",
+  "last_update": "2026\/01\/24",
   "editor_name": "BeMusicSeeker",
   "editor_version": "",
-  "output_date": "2026\/01\/19"
+  "output_date": "2026\/01\/25"
 }

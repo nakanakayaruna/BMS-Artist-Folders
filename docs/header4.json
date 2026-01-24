@@ -6,6 +6,7 @@
     "140\/fth",
     "Air",
     "Aremos",
+    "ARMYTOM",
     "Can.D-mtmrw",
     "coda",
     "cyclia",
@@ -56,6 +57,7 @@
     "TOYCAT",
     "vol-t",
     "wandering light",
+    "xra",
     "yama_ko",
     "yusi.",
     "zue-row",
@@ -85,8 +87,8 @@
   "entry_type": "",
   "data_url": "data4.json",
   "compat_prefix": "",
-  "last_update": "2026\/01\/19",
+  "last_update": "2026\/01\/24",
   "editor_name": "BeMusicSeeker",
   "editor_version": "",
-  "output_date": "2026\/01\/19"
+  "output_date": "2026\/01\/25"
 }
