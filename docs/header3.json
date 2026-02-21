@@ -1,7 +1,15 @@
 {
-  "name": "ARTIST [あ-漢字]",
+  "name": "ARTIST [その他]",
   "symbol": "♪",
   "level_order": [
+    "-45",
+    "2TORI",
+    "5*LEAF",
+    "6yen",
+    "13eastie",
+    "44teru-k",
+    "8284 (music, sabun)",
+    "⑮",
     "ああああ",
     "イズミケイ",
     "ウラボロシ",
@@ -13,6 +21,7 @@
     "しろ",
     "セナ",
     "たこやき",
+    "なおきち",
     "にょろも",
     "ねこみみ魔法使い",
     "ねこみりん",
@@ -51,8 +60,8 @@
   "entry_type": "",
   "data_url": "data3.json",
   "compat_prefix": "",
-  "last_update": "2026\/01\/24",
+  "last_update": "2026\/02\/01",
   "editor_name": "BeMusicSeeker",
   "editor_version": "",
-  "output_date": "2026\/01\/25"
+  "output_date": "2026\/02\/21"
 }
