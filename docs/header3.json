@@ -16,6 +16,7 @@
     "かたぎり",
     "かむちゃうらる",
     "カラフル・サウンズ・ポート",
+    "くっちー",
     "しょっぺ人",
     "しらいし",
     "しろ",
@@ -60,8 +61,8 @@
   "entry_type": "",
   "data_url": "data3.json",
   "compat_prefix": "",
-  "last_update": "2026\/02\/01",
+  "last_update": "2026\/03\/01",
   "editor_name": "BeMusicSeeker",
-  "editor_version": "",
-  "output_date": "2026\/02\/21"
+  "editor_version": "0.1.7374.5230",
+  "output_date": "2026\/03\/01"
 }

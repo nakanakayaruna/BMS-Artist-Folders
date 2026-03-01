@@ -21,6 +21,7 @@
     "precis fan",
     "prestissimo",
     "ProjectG",
+    "Psyche",
     "Puru",
     "q\/stol",
     "qfeileadh",
@@ -103,8 +104,8 @@
   "entry_type": "",
   "data_url": "data2.json",
   "compat_prefix": "",
-  "last_update": "2026\/02\/07",
+  "last_update": "2026\/02\/28",
   "editor_name": "BeMusicSeeker",
-  "editor_version": "",
-  "output_date": "2026\/02\/21"
+  "editor_version": "0.1.7374.5230",
+  "output_date": "2026\/03\/01"
 }

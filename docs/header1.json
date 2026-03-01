@@ -25,6 +25,8 @@
     "BOZO",
     "brz1128",
     "celas",
+    "Chitose",
+    "cinako",
     "cittan*",
     "Clotho",
     "cranky",
@@ -91,6 +93,7 @@
     "LaValse",
     "LeaF (music)",
     "Lemon beads",
+    "LiA",
     "Lime",
     "linear ring",
     "litmus*",
@@ -122,6 +125,7 @@
     "Mona",
     "mossari",
     "Mr.ABC",
+    "MUE",
     "muhn",
     "murotani (music, sabun)",
     "myu",
@@ -141,8 +145,8 @@
   "entry_type": "",
   "data_url": "data1.json",
   "compat_prefix": "",
-  "last_update": "2026\/02\/21",
+  "last_update": "2026\/02\/28",
   "editor_name": "BeMusicSeeker",
-  "editor_version": "",
-  "output_date": "2026\/02\/21"
+  "editor_version": "0.1.7374.5230",
+  "output_date": "2026\/03\/01"
 }
